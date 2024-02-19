@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(255, 0, 0);
+    color:white;
+}
+h1 {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+}
+
+p img {
+    width: 25px;
+    margin: 15px;
+}
+
+.b{
+    border: 10px solid blueviolet;
+}
+main{
+     color:white;
+}
+main h1{
+     color:black;
+}
+p img {
+    width: 25px;
+    margin: 15px;
+}
+main img {
+     width: 350px;
+}
+a{
+    color:red;
+    background-color: white;
+    border:1px solid red;
+    text-decoration: none;
+}
